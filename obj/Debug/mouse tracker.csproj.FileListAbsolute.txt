@@ -1,0 +1,10 @@
+C:\Users\Jules\Desktop\Code\C#\Visual studio\mouse tracker\mouse tracker\bin\Debug\mouse tracker.exe.config
+C:\Users\Jules\Desktop\Code\C#\Visual studio\mouse tracker\mouse tracker\bin\Debug\mouse tracker.exe
+C:\Users\Jules\Desktop\Code\C#\Visual studio\mouse tracker\mouse tracker\bin\Debug\mouse tracker.pdb
+C:\Users\Jules\Desktop\Code\C#\Visual studio\mouse tracker\mouse tracker\obj\Debug\mouse tracker.csprojAssemblyReference.cache
+C:\Users\Jules\Desktop\Code\C#\Visual studio\mouse tracker\mouse tracker\obj\Debug\mouse_tracker.Form1.resources
+C:\Users\Jules\Desktop\Code\C#\Visual studio\mouse tracker\mouse tracker\obj\Debug\mouse_tracker.Properties.Resources.resources
+C:\Users\Jules\Desktop\Code\C#\Visual studio\mouse tracker\mouse tracker\obj\Debug\mouse tracker.csproj.GenerateResource.cache
+C:\Users\Jules\Desktop\Code\C#\Visual studio\mouse tracker\mouse tracker\obj\Debug\mouse tracker.csproj.CoreCompileInputs.cache
+C:\Users\Jules\Desktop\Code\C#\Visual studio\mouse tracker\mouse tracker\obj\Debug\mouse tracker.exe
+C:\Users\Jules\Desktop\Code\C#\Visual studio\mouse tracker\mouse tracker\obj\Debug\mouse tracker.pdb
